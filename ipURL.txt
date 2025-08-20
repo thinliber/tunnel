@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/thinliber/tunnel/refs/heads/main/ipv4.txt@192.237.192.175
+https://raw.githubusercontent.com/thinliber/tunnel/refs/heads/main/ipv4.txt@75.2.32.4
